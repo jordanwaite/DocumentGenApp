@@ -1,0 +1,13 @@
+.asteriskField {
+    display: none;
+    content: '';
+}
+
+.formHint {
+    font-size: .8em;
+    color:rgb(37, 189, 17);
+}
+
+h1 {
+    color: rgb(175, 202, 56) !important;
+}

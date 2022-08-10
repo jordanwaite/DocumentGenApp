@@ -1,0 +1,15 @@
+{% extends 'nrotc/base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+
+{% block content %}
+
+<h1 class='' style='text-align: center; color: #052b4d;'>PRB Convening Order</h1>
+<div class='container' style="border:2px solid #052b4d; padding-bottom:10px; margin-bottom:30px;">
+    <form method="POST">
+        {% crispy form_PRB_conv_order form_PRB_conv_order.helper %}   
+    </form>         
+</div>
+
+{% endblock %}
