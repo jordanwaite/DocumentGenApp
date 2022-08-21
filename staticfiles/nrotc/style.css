@@ -1,0 +1,9 @@
+.asteriskField {
+    display: none;
+    content: '';
+}
+
+.formHint {
+    font-size: .8em;
+    color:rgba(238, 14, 14, 0.932);
+}
