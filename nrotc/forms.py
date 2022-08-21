@@ -1,5 +1,4 @@
 from django import forms
-from django.forms.widgets import Widget
 from crispy_forms.helper import FormHelper
 from crispy_forms.layout import Submit, Layout, Div, ButtonHolder
       
