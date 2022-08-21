@@ -1,6 +1,6 @@
 venvSetup.sh
 secret_key.txt
-
+.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
